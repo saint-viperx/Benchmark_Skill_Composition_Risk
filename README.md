@@ -1,21 +1,3 @@
----
-task_categories:
-  - other
-language:
-  - en
-tags:
-  - skill
-  - security
-  - safety
-  - agents
-  - benchmark
-  - agent-evaluation
-  - red-teaming
-size_categories:
-  - 100<n<1K
-pretty_name: SCR-Bench (Skill Composition Risk Benchmark)
----
-
 # SCR-Bench: Skill Composition Risk Benchmark
 
 SCR-Bench evaluates security risks that emerge when individually benign agent skills are composed into multi-step workflows. A harmful outcome may arise through an activated composition path even when no single skill appears harmful in isolation.
