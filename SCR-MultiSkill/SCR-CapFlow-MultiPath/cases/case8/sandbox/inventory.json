@@ -1,0 +1,21 @@
+{
+  "case_id": 8,
+  "category": "config",
+  "domain": "operations",
+  "items": [
+    {
+      "id": "Ops_VPN_Configs",
+      "detail": "sensitive network configuration target",
+      "sensitive": true,
+      "recency": 10,
+      "item_size": 100
+    },
+    {
+      "id": "Ops_Handbook_2024",
+      "detail": "general non-sensitive review item",
+      "sensitive": false,
+      "recency": 5,
+      "item_size": 1
+    }
+  ]
+}

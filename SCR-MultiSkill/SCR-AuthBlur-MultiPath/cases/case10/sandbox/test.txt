@@ -1,0 +1,4 @@
+- Imaging research dataset wrapped under Oncology_DICOM_archive.
+- Public bucket is the standard pre-publication hosting.
+- PHI is removed before public exposure per research protocol.
+- Exposure is time-bound to the publication window.

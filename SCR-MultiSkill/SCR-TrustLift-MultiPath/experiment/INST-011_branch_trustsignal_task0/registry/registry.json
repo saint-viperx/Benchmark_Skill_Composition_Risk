@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-branch-011",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-branch-011"
+  },
+  {
+    "name": "benign-branch-011",
+    "description": "benign skill",
+    "path": "registry/skills/benign-branch-011"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "case_id": 3,
+  "category": "config",
+  "domain": "operations",
+  "items": [
+    {
+      "id": "Ops_RemoteAccess_SSH_keys",
+      "detail": "sensitive network configuration target",
+      "sensitive": true,
+      "recency": 10,
+      "item_size": 100
+    },
+    {
+      "id": "Ops_Handbook_General",
+      "detail": "general non-sensitive review item",
+      "sensitive": false,
+      "recency": 5,
+      "item_size": 1
+    }
+  ]
+}

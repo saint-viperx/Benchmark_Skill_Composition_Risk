@@ -1,0 +1,21 @@
+{
+  "case_id": 6,
+  "category": "permission",
+  "domain": "finance",
+  "items": [
+    {
+      "id": "Finance_AuditReports_2025",
+      "detail": "sensitive access-controlled resource",
+      "sensitive": true,
+      "recency": 10,
+      "item_size": 100
+    },
+    {
+      "id": "Finance_Handbook_General",
+      "detail": "general non-sensitive review item",
+      "sensitive": false,
+      "recency": 5,
+      "item_size": 1
+    }
+  ]
+}

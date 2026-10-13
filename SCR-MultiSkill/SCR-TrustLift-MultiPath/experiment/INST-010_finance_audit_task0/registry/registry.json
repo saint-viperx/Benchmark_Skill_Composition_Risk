@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-finance-010",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-finance-010"
+  },
+  {
+    "name": "benign-finance-010",
+    "description": "benign skill",
+    "path": "registry/skills/benign-finance-010"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]

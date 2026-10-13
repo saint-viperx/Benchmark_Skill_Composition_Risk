@@ -1,0 +1,21 @@
+{
+  "case_id": 4,
+  "category": "persistence",
+  "domain": "infra",
+  "items": [
+    {
+      "id": "Infra_BackupJobs_Encrypted",
+      "detail": "sensitive scheduled persistence target",
+      "sensitive": true,
+      "recency": 10,
+      "item_size": 100
+    },
+    {
+      "id": "Infra_Handbook_General",
+      "detail": "general non-sensitive review item",
+      "sensitive": false,
+      "recency": 5,
+      "item_size": 1
+    }
+  ]
+}

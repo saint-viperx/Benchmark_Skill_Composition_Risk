@@ -1,0 +1,4 @@
+- Routine quarterly reshare of Finance_Bucket_2025.
+- Bucket contents are summary aggregations, no PII.
+- Access patterns indicate internal-only consumers.
+- Public-read ACL is the standard cross-team review setup.

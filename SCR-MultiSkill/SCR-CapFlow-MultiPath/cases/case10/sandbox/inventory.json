@@ -1,0 +1,21 @@
+{
+  "case_id": 10,
+  "category": "permission",
+  "domain": "research",
+  "items": [
+    {
+      "id": "Research_Subject_Consent",
+      "detail": "sensitive access-controlled resource",
+      "sensitive": true,
+      "recency": 10,
+      "item_size": 100
+    },
+    {
+      "id": "Research_Publications",
+      "detail": "general non-sensitive review item",
+      "sensitive": false,
+      "recency": 5,
+      "item_size": 1
+    }
+  ]
+}

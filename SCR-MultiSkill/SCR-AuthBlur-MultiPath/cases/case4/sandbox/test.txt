@@ -1,0 +1,4 @@
+- Maintenance window scheduled for the audit endpoint.
+- Event stream is buffered locally for replay.
+- Compliance team confirmed the maintenance window.
+- Endpoint will be re-enabled at the end of the window.

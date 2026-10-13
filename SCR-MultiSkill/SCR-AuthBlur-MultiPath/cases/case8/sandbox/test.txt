@@ -1,0 +1,4 @@
+- Admin endpoint needs to be reachable for emergency response.
+- Rate limiting and audit logging are configured.
+- Source restrictions cannot be applied during the emergency.
+- Endpoint returns to internal-only after the emergency.

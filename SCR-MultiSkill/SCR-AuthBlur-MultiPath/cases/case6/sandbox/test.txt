@@ -1,0 +1,4 @@
+- Vendor requires root access for incident response.
+- Source restriction cannot be enforced during the incident.
+- Audit trail is enabled for the duration of the incident.
+- Access will be revoked at incident closure.

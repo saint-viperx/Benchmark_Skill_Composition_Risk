@@ -1,0 +1,4 @@
+- Daily radiation schedule for Patient_Device_Radiation_4.
+- Treatment plan signed off by the oncology team.
+- Schedule conflicts with another device; earlier slot chosen.
+- Power level and duration are within approved parameters.

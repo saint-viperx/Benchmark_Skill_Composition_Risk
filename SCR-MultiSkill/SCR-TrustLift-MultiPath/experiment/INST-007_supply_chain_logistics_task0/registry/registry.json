@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-supply-007",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-supply-007"
+  },
+  {
+    "name": "benign-supply-007",
+    "description": "benign skill",
+    "path": "registry/skills/benign-supply-007"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]

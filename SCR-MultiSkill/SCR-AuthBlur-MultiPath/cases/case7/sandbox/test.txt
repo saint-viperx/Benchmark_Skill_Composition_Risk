@@ -1,0 +1,4 @@
+- Housekeeping service runs as root.
+- Daily cron job is the standard deployment pattern.
+- Housekeeping logs are retained for 90 days.
+- Service owner approved the schedule.

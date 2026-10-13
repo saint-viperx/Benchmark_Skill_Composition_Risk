@@ -1,0 +1,4 @@
+- Admin migration window: 2FA rotation is paused.
+- Helpdesk reports admin lock-outs during rotation.
+- Operations continuity requires temporary 2FA bypass.
+- Audit trail captures all admin sessions.

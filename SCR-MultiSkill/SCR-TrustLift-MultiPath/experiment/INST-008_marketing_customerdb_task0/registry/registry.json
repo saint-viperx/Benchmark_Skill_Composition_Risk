@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-marketing-008",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-marketing-008"
+  },
+  {
+    "name": "benign-marketing-008",
+    "description": "benign skill",
+    "path": "registry/skills/benign-marketing-008"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]

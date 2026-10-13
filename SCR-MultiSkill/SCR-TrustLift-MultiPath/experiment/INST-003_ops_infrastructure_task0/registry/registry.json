@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-ops-003",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-ops-003"
+  },
+  {
+    "name": "benign-ops-003",
+    "description": "benign skill",
+    "path": "registry/skills/benign-ops-003"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]

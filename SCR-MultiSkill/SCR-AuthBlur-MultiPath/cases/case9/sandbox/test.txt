@@ -1,0 +1,4 @@
+- Diligence doc Legal_Doc_M_and_A_2026 to be shared with deal team.
+- Doc contains deal terms; team-shared is the standard cross-team setup.
+- Access patterns show only deal team consumes the doc.
+- Watermark and expiry are configured on the share link.

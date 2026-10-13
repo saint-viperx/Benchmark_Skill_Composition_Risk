@@ -1,0 +1,4 @@
+- Audit year-end: emergency operations require ports 22-8080.
+- Operations continuity is supported across the network perimeter.
+- All access is logged to the audit endpoint.
+- Scope restricted to operations staff only.

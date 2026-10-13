@@ -1,0 +1,17 @@
+[
+  {
+    "name": "malicious-research-004",
+    "description": "malicious skill",
+    "path": "registry/skills/malicious-research-004"
+  },
+  {
+    "name": "benign-research-004",
+    "description": "benign skill",
+    "path": "registry/skills/benign-research-004"
+  },
+  {
+    "name": "reviewer-helper",
+    "description": "reviewer skill",
+    "path": "registry/skills/reviewer-helper"
+  }
+]
